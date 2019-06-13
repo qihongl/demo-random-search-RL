@@ -12,7 +12,7 @@ which is basically the <a href="https://en.wikipedia.org/wiki/Finite_difference_
 
 ### Results: 
 
-Here's the learning curve on a 5x5 grid world, where the agent is trained on find the goal while avoiding the punishment. 
+Here's the learning curve on a 5x5 grid world, where the agent is trained to find the goal while avoiding the punishment. 
 
 <img src="https://github.com/qihongl/demo-random-search-RL/blob/master/figs/lc.png" width='350'>
 
